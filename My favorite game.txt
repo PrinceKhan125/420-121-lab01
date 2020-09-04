@@ -1,4 +1,8 @@
 I like to play Minecraft.
 I am afraid of the night.
+<<<<<<< HEAD
 
 I like to kill zombies.
+=======
+I love to build houses.
+>>>>>>> 9a38bb5398d4ff2a76b669210e463167047762f2
