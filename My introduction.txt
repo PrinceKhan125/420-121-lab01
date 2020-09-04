@@ -1,5 +1,9 @@
 Hi my name is Muhammad Huzaifa Alam Khan.
 I am 18 years old.
+<<<<<<< HEAD
 
 I am a store clerk.
 
+=======
+I work at Pharmaprix.
+>>>>>>> ee7a7249e7b6d83a0084984ce878ca94f57c17ea
